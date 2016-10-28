@@ -1,3 +1,4 @@
+// this is a code written for the number palindrome.
 #include<stdio.h>
 #include<math.h>
 int main(){
